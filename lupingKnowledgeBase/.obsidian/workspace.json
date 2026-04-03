@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "专升本高数/测试.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "测试"
@@ -89,13 +89,28 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d8ffd778c77012bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！ 的大纲"
+            }
+          },
+          {
             "id": "65e151f44fc5fec0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
-                "collapseAll": false,
+                "file": "专升本高数/测试.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！ 的反向链接列表"
+              "title": "测试 的反向链接列表"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+                "file": "专升本高数/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！ 的出链列表"
+              "title": "测试 的出链列表"
             }
           },
           {
@@ -149,28 +164,13 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "d8ffd778c77012bc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！ 的大纲"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +186,8 @@
   },
   "active": "3f330ddea101c9a8",
   "lastOpenFiles": [
-    "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
     "专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
+    "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
     "专升本高数/测试.md",
     "欢迎.md",
     "专升本英语",
