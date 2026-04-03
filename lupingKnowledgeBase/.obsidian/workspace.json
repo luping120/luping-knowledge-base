@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "7c011e41126da7e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2ac29c72667b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f330ddea101c9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "306051ec2d790f9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97ed4a581047aa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1281b45ec2780cec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e15387a8d799186f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "73652b3941d05d82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0d0d96d580f46f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f26fa3cfb08029a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e151f44fc5fec0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！ 的反向链接列表"
+            }
+          },
+          {
+            "id": "392691a98eb8a7d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！ 的出链列表"
+            }
+          },
+          {
+            "id": "849b04dbee3e620a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a9e23349087c7de1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d8ffd778c77012bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！ 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "3f330ddea101c9a8",
+  "lastOpenFiles": [
+    "专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
+    "专升本高数/未命名.md",
+    "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+    "欢迎.md",
+    "专升本英语",
+    "专升本信息安全",
+    "专升本C语言",
+    "专升本高数",
+    "未命名.md"
+  ]
+}
