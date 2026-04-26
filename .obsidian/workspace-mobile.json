@@ -25,10 +25,14 @@
             "id": "50fa475d8d5e8303",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "lupingKnowledgeBase/专升本高数/裂项常用公式大全.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "裂项常用公式大全"
             }
           }
         ],
@@ -168,6 +172,7 @@
   },
   "active": "50fa475d8d5e8303",
   "lastOpenFiles": [
+    "lupingKnowledgeBase/专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
     "lupingKnowledgeBase/专升本高数/专升本数学笔记_索引.md",
     "lupingKnowledgeBase/附件/专升本数学笔记_优化版.md",
     "安徽学校就在附近初见乍惊欢.md",
@@ -183,7 +188,6 @@
     "data/data/com.termux/files/usr/bin/git",
     "lupingKnowledgeBase/专升本高数/test.md",
     "aaaa.md",
-    "lupingKnowledgeBase/专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
     "lupingKnowledgeBase/专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md"
   ]
 }
