@@ -2,7 +2,7 @@
 
 关键字
 ---
-FROM 
+## FROM 
 	镜像名
 ```dockerfile
 FROM centos:latest
@@ -10,15 +10,15 @@ FROM centos:latest
 # tag latest 的意思是最新版本
 ```
 ---
-RUN 
+## RUN 
 	运行的命令
 ```dockerfile
-// EXAM
+# EXAM
 RUN ls
-// 代表运行ls这个命令
+# 代表运行ls这个命令
 RUN yum update
-// 代表进行yum缓存更新
-// ...以此类推
+# 代表进行yum缓存更新
+# ...以此类推
 ```
 接下来我们使用RUN参数进行更换yum源
 ```dockerfile
@@ -67,7 +67,7 @@ RUN yum clean all && yum makecache -y
 ```
 ---
 
-CMD
+## CMD
 	指定容器创建时的命令 （可以被覆盖）
 	类似于 RUN 指令，用于运行程序，但二者运行的时间点不同:
 
@@ -99,3 +99,16 @@ FROM centos8:latest
 CMD ["yum","list","installed"]
 ```
 **效果**：默认列出所有已安装的包，适合简单的验证镜像。
+
+```dockerfile
+# 实例 3：启动一个简单的 HTTP 服务（假设已安装 `httpd`）
+FROM centos8:latest
+
+RUN yum install -y httpd
+# 代表开放80端口
+EXPOSE 80 
+
+CMD ["/usr/sbin/httpd", "-DFOREGROUND"]
+
+```
+**效果**：前台运行 Apache，保持容器存活

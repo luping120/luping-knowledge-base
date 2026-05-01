@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "附件/docker file.md",
+                "file": "docker/docker file.md",
                 "mode": "source",
                 "source": false
               },
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "附件/docker file.md",
+                "file": "docker/docker file.md",
                 "mode": "preview",
                 "source": false
               },
@@ -238,7 +238,7 @@
   "active": "750f08029e5e553a",
   "lastOpenFiles": [
     "专升本高数/专升本数学笔记_索引.md",
-    "附件/docker file.md",
+    "docker/docker file.md",
     "docker",
     "专升本高数/高等数学/01_函数与极限.md",
     "专升本高数/裂项常用公式大全.md",
