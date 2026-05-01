@@ -112,4 +112,4 @@ EXPOSE 80
 CMD ["/usr/sbin/httpd", "-DFOREGROUND"]
 
 ```
-**效果**：前台运行 Apache，保持容器存活
+**效果**：前台运行 Apache，保持容器存活。

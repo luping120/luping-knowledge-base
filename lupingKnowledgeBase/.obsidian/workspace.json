@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/dockercompose.md",
+                "file": "docker/docker file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dockercompose"
+              "title": "docker file"
             }
           }
         ],
@@ -265,8 +265,8 @@
   },
   "active": "89930eea60027e70",
   "lastOpenFiles": [
-    "docker/docker file.md",
     "docker/dockercompose.md",
+    "docker/docker file.md",
     "专升本高数/专升本数学笔记_索引.md",
     "docker",
     "专升本高数/高等数学/01_函数与极限.md",
