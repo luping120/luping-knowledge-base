@@ -1,7 +1,7 @@
 关于dockerfile的文件编写
 
 关键字
-
+---
 FROM 
 	镜像名
 ```dockerfile
@@ -34,6 +34,7 @@ RUN yum clean all && yum makecache -y
 ```
 如果镜像里面没有repo配置文件呢？
 ```dockerfile
+# 这是方法二
 FROM centos:8
 
 # 1. 删除可能存在的其他 repo 文件（如果目录为空可忽略）
@@ -76,8 +77,25 @@ CMD
 
 ```dockerfile // EXAM
 CMD <shell 命令>
+
 CMD ["<可执行的文件或命令>", <"param1">, <"param2">]
-CMD [<"param1">, <"param2">] # 该写法是为 ENTRYPOINT 指令指定的程序提供默认参数
+
+CMD [<"param1">, <"param2">] 
+# 该写法是为 ENTRYPOINT 指令指定的程序提供默认参数
 ```
 
 推荐使用第二种格式，执行过程比较明确
+```dockerfile
+# 实例一 启动一个交互式shell
+FROM centos8:latest
+
+CMD ["/bin/bash"]
+```
+**效果**：`docker run -it centos8:custom` 会直接进入 bash 终端；若运行 `docker run -it centos8:custom cat /etc/os-release` 则覆盖 CMD 执行 `cat`。
+
+```dockerfile
+FROM centos8:latest
+# 实例二 执行一次性任务
+CMD ["yum","list","installed"]
+```
+**效果**：默认列出所有已安装的包，适合简单的验证镜像。
