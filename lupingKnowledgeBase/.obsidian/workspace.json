@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0d0d96d580f46f3",
@@ -234,7 +235,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "05d9c84065330dc5",
+  "active": "750f08029e5e553a",
   "lastOpenFiles": [
     "专升本高数/专升本数学笔记_索引.md",
     "附件/docker file.md",

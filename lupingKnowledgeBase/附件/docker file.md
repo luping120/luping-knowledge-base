@@ -6,8 +6,8 @@ FROM
 	镜像名
 ```dockerfile
 FROM centos:latest
-// 这个意思是拉取centos:latest作为构建镜像
-// tag latest 的意思是最新版本
+# 这个意思是拉取centos:latest作为构建镜像
+# tag latest 的意思是最新版本
 ```
 ---
 RUN 
@@ -22,7 +22,14 @@ RUN yum update
 ```
 接下来我们使用RUN参数进行更换yum源
 ```dockerfile
-RUN 
+FROM centos:8
+
+# 将原有的 mirrorlist 注释掉，并将 baseurl 指向 CentOS 官方归档源（vault）
+RUN sed -i 's/mirrorlist/#mirrorlist/g' /etc/yum.repos.d/CentOS-* && \
+    sed -i 's|#baseurl=http://mirror.centos.org|baseurl=http://vault.centos.org|g' /etc/yum.repos.d/CentOS-*
+
+# 清理缓存并生成新的 YUM 缓存
+RUN yum clean all && yum makecache -y
 ```
 ---
 
