@@ -31,7 +31,7 @@ CMD
 	类似于 RUN 指令，用于运行程序，但二者运行的时间点不同:
 
 - CMD 在docker run 时运行。
-- RUN 是在 docker build。
+- RUN 是在 docker build 也就是镜像构建的时候。
 
 
 ```dockerfile // EXAM
