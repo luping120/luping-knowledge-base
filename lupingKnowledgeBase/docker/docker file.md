@@ -94,14 +94,15 @@ CMD ["/bin/bash"]
 **效果**：`docker run -it centos8:custom` 会直接进入 bash 终端；若运行 `docker run -it centos8:custom cat /etc/os-release` 则覆盖 CMD 执行 `cat`。
 
 ```dockerfile
-FROM centos8:latest
 # 实例二 执行一次性任务
+FROM centos8:latest
+
 CMD ["yum","list","installed"]
 ```
 **效果**：默认列出所有已安装的包，适合简单的验证镜像。
 
 ```dockerfile
-# 实例 3：启动一个简单的 HTTP 服务（假设已安装 `httpd`）
+# 实例三 启动一个简单的 HTTP 服务（假设已安装 `httpd`）
 FROM centos8:latest
 
 RUN yum install -y httpd
