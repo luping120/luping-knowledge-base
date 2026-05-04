@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lupingKnowledgeBase/docker/dockercompose.md",
+                "file": "lupingKnowledgeBase/专升本高数/【专升本高数速成课10】一个视频讲完常微分方程中常考题型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dockercompose"
+              "title": "【专升本高数速成课10】一个视频讲完常微分方程中常考题型"
             }
           }
         ]
@@ -139,9 +139,19 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "a8fdf8970ac262dc",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,17 +167,29 @@
   },
   "active": "5f3c26ce487fd30b",
   "lastOpenFiles": [
+    "lupingKnowledgeBase/专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+    "lupingKnowledgeBase/专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
+    "lupingKnowledgeBase/专升本高数/【专升本高数速成课10】一个视频讲完常微分方程中常考题型.md",
+    "lupingKnowledgeBase/专升本高数/【专升本速成课9】一个视频讲完无穷级数常考点！快速拿分！.md",
+    "lupingKnowledgeBase/专升本高数/【专升本速成课8】救命课程！二重积分下，教会你，如何计算二重积分！.md",
+    "lupingKnowledgeBase/专升本高数/【专升本速成课8】保命课程！二重积分上，教会你怎么计算二重积分！(1).md",
+    "/lupingKnowledgeBase/专升本高数/【专升本高数速成课10】一个视频讲完常微分方程中常考题型.md",
+    "/lupingKnowledgeBase/专升本高数/【专升本速成课9】一个视频讲完无穷级数常考点！快速拿分！.md",
+    "/lupingKnowledgeBase/专升本高数/【专升本速成课8】救命课程！二重积分下，教会你，如何计算二重积分！.md",
+    "/lupingKnowledgeBase/专升本高数/【专升本速成课8】保命课程！二重积分上，教会你怎么计算二重积分！(1).md",
+    "/lupingKnowledgeBase/专升本高数/《高等数学》全程教学视频 2.0版【宋浩老师】（下册增加了黑板版） p83 空间曲线的切线和法平面.md",
+    "lupingKnowledgeBase/专升本高数/《高等数学》全程教学视频 2.0版【宋浩老师】（下册增加了黑板版） p83 空间曲线的切线和法平面.md",
+    "/lupingKnowledgeBase/专升本高数",
+    "/lupingKnowledgeBase/docker/docker file.md",
+    "/lupingKnowledgeBase/docker",
+    "/lupingKnowledgeBase",
+    "lupingKnowledgeBase/docker/dockercompose.md",
     "lupingKnowledgeBase/docker/docker file.md",
     "lupingKnowledgeBase/专升本高数/专升本数学笔记_索引.md",
-    "lupingKnowledgeBase/docker/dockercompose.md",
-    "/lupingKnowledgeBase/docker/docker file.md",
     "/lupingKnowledgeBase/docker/dockercompose.md",
     "lupingKnowledgeBase/附件/docker file.md",
     "lupingKnowledgeBase/docker",
-    "/lupingKnowledgeBase/docker",
     "/lupingKnowledgeBase/附件",
-    "/lupingKnowledgeBase",
-    "lupingKnowledgeBase/专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
     "/lupingKnowledgeBase/附件/docker file.md",
     "lupingKnowledgeBase/专升本高数/常见待定系数法裂项公式(积分时要用).md",
     "README.md",
@@ -179,9 +201,7 @@
     "data",
     "/data/data/com.termux/files/usr/bin/git",
     "/data/data/com.termux/files/usr/bin",
-    "/data/data/com.termux/files/usr",
     "lupingKnowledgeBase/专升本高数/test.md",
-    "aaaa.md",
-    "lupingKnowledgeBase/专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md"
+    "aaaa.md"
   ]
 }
