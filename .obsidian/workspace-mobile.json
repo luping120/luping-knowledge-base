@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2)】单词构造对发音的影响【元音aeiou的字母音】.md",
+                "file": "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读3)】常见元音组合, er_ir_ur以及ea_ee.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【真·零基础英语(自然拼读2)】单词构造对发音的影响【元音aeiou的字母音】"
+              "title": "【真·零基础英语(自然拼读3)】常见元音组合, er_ir_ur以及ea_ee"
             }
           }
         ]
@@ -167,16 +167,20 @@
   },
   "active": "5f3c26ce487fd30b",
   "lastOpenFiles": [
-    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读1)】1个单词仅1个重音，元音aeiou的基本发音.md",
     "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2)】单词构造对发音的影响【元音aeiou的字母音】.md",
+    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读3)】常见元音组合, er_ir_ur以及ea_ee.md",
+    "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读3)】常见元音组合, er_ir_ur以及ea_ee.md",
+    "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2.5)】单词构造对发音的影响【aeiou字母音特例的规律】.md",
+    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2.5)】单词构造对发音的影响【aeiou字母音特例的规律】.md",
+    "/lupingKnowledgeBase/专升本英语/自然拼读",
+    "/lupingKnowledgeBase/专升本英语",
+    "/lupingKnowledgeBase",
+    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读1)】1个单词仅1个重音，元音aeiou的基本发音.md",
     "lupingKnowledgeBase/专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
     "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2)】单词构造对发音的影响【元音aeiou的字母音】.md",
     "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读1)】1个单词仅1个重音，元音aeiou的基本发音.md",
     "lupingKnowledgeBase/专升本英语/自然拼读",
-    "/lupingKnowledgeBase/专升本英语/自然拼读",
-    "/lupingKnowledgeBase/专升本英语",
     "lupingKnowledgeBase/专升本英语",
-    "/lupingKnowledgeBase",
     "lupingKnowledgeBase/专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
     "lupingKnowledgeBase/专升本高数/【专升本高数速成课10】一个视频讲完常微分方程中常考题型.md",
     "lupingKnowledgeBase/专升本高数/【专升本速成课9】一个视频讲完无穷级数常考点！快速拿分！.md",
@@ -198,10 +202,6 @@
     "lupingKnowledgeBase/附件/docker file.md",
     "lupingKnowledgeBase/docker",
     "/lupingKnowledgeBase/附件",
-    "/lupingKnowledgeBase/附件/docker file.md",
-    "lupingKnowledgeBase/专升本高数/常见待定系数法裂项公式(积分时要用).md",
-    "README.md",
-    "lupingKnowledgeBase/专升本高数/裂项常用公式大全.md",
     "data/data/com.termux/files/usr/bin/git/config"
   ]
 }
