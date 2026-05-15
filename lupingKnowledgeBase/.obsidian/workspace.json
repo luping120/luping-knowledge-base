@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "# Vim ：移动与编辑"
             }
+          },
+          {
+            "id": "06789dddcd82dc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim/Vim ：文本对象操作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vim ：文本对象操作"
+            }
+          },
+          {
+            "id": "1750a31496eda638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "附件/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,10 +256,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1281b45ec2780cec",
+  "active": "1750a31496eda638",
   "lastOpenFiles": [
-    "vim/# Vim 教程：初识 Vim.md",
+    "vim/Vim ：文本对象操作.md",
+    "附件/未命名.md",
     "vim/# Vim ：移动与编辑.md",
+    "vim/# Vim 教程：初识 Vim.md",
     "未命名",
     "专升本英语/自然拼读/【真·零基础英语(自然拼读2)】单词构造对发音的影响【元音aeiou的字母音】.md",
     "vim",
@@ -258,9 +288,7 @@
     "专升本高数/【专升本速成课8】保命课程！二重积分上，教会你怎么计算二重积分！.md",
     "专升本高数/【专升本速成课8】保命课程！二重积分上，教会你怎么计算二重积分！ 1.md",
     "专升本高数/空间曲线的切线和法平面.md",
-    "专升本高数/专升本数学笔记_索引.md",
     "docker",
-    "专升本高数/高等数学/01_函数与极限.md",
     "texxt",
     "专升本高数/专升本数学笔记_索引.md.tmp.283907.1775312102235",
     "专升本高数/专升本数学笔记_索引.md.tmp.283907.1775312085149",
