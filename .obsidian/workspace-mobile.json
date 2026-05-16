@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "lupingKnowledgeBase/专升本高数/概率统计/02_随机变量及其分布.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "02_随机变量及其分布"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "path:\"lupingKnowledgeBase/\" ",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -101,7 +101,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "4116e9cbab9b17a1",
@@ -180,10 +180,11 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "6765e2aedb8423b3",
+  "active": "0971bc2c87861a60",
   "lastOpenFiles": [
-    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读1)】1个单词仅1个重音，元音aeiou的基本发音.md",
+    "lupingKnowledgeBase/专升本高数/《高等数学》全程教学视频 2.0版【宋浩老师】（下册增加了黑板版） p83 空间曲线的切线和法平面.md",
     "未命名.md",
+    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读1)】1个单词仅1个重音，元音aeiou的基本发音.md",
     "lupingKnowledgeBase/vim/Vim ：移动与编辑.md",
     "lupingKnowledgeBase/vim/Vim ：文本对象操作.md",
     "lupingKnowledgeBase/vim/Vim ：寄存器与宏.md",
@@ -212,7 +213,6 @@
     "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读3)】常见元音组合, er_ir_ur以及ea_ee.md",
     "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2.5)】单词构造对发音的影响【aeiou字母音特例的规律】.md",
     "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2.5)】单词构造对发音的影响【aeiou字母音特例的规律】.md",
-    "lupingKnowledgeBase/专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
     "lupingKnowledgeBase/专升本英语/自然拼读",
     "lupingKnowledgeBase/专升本英语",
     "/lupingKnowledgeBase/专升本高数",
