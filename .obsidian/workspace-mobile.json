@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lupingKnowledgeBase/专升本高数/概率统计/02_随机变量及其分布.md",
-                "mode": "source",
+                "file": "lupingKnowledgeBase/vim/Vim ：命令模式.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_随机变量及其分布"
+              "title": "Vim ：命令模式"
             }
           }
         ],
@@ -182,12 +182,19 @@
   },
   "active": "0971bc2c87861a60",
   "lastOpenFiles": [
+    "lupingKnowledgeBase/vim/Vim ：寄存器与宏.md",
     "lupingKnowledgeBase/专升本高数/《高等数学》全程教学视频 2.0版【宋浩老师】（下册增加了黑板版） p83 空间曲线的切线和法平面.md",
+    "lupingKnowledgeBase/专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
+    "lupingKnowledgeBase/专升本高数/【专升本高数速成课10】一个视频讲完常微分方程中常考题型.md",
+    "lupingKnowledgeBase/专升本高数/【专升本速成课9】一个视频讲完无穷级数常考点！快速拿分！.md",
+    "lupingKnowledgeBase/专升本高数/【专升本速成课8】救命课程！二重积分下，教会你，如何计算二重积分！.md",
+    "lupingKnowledgeBase/专升本高数/【专升本速成课8】保命课程！二重积分上，教会你怎么计算二重积分！(1).md",
+    "lupingKnowledgeBase/专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+    "lupingKnowledgeBase/专升本高数/概率统计/02_随机变量及其分布.md",
     "未命名.md",
     "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读1)】1个单词仅1个重音，元音aeiou的基本发音.md",
     "lupingKnowledgeBase/vim/Vim ：移动与编辑.md",
     "lupingKnowledgeBase/vim/Vim ：文本对象操作.md",
-    "lupingKnowledgeBase/vim/Vim ：寄存器与宏.md",
     "lupingKnowledgeBase/vim/Vim ：命令模式.md",
     "lupingKnowledgeBase/vim/Vim 教程：初识 Vim.md",
     "/lupingKnowledgeBase/vim/Vim ：移动与编辑.md",
@@ -203,16 +210,9 @@
     "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读7)】其他发音组合(完结).md",
     "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读6)】常见辅音组合2, wh_ph的发音.md",
     "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读5)】常见辅音组合, ck、ng的发音.md",
-    "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读4)】常见元音组合2, oo; ou_ow的发音.md",
-    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读4)】常见元音组合2, oo; ou_ow的发音.md",
     "/lupingKnowledgeBase/专升本英语/自然拼读",
     "/lupingKnowledgeBase/专升本英语",
     "/lupingKnowledgeBase",
-    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读3)】常见元音组合, er_ir_ur以及ea_ee.md",
-    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2)】单词构造对发音的影响【元音aeiou的字母音】.md",
-    "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读3)】常见元音组合, er_ir_ur以及ea_ee.md",
-    "/lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2.5)】单词构造对发音的影响【aeiou字母音特例的规律】.md",
-    "lupingKnowledgeBase/专升本英语/自然拼读/【真·零基础英语(自然拼读2.5)】单词构造对发音的影响【aeiou字母音特例的规律】.md",
     "lupingKnowledgeBase/专升本英语/自然拼读",
     "lupingKnowledgeBase/专升本英语",
     "/lupingKnowledgeBase/专升本高数",
