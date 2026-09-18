@@ -6,3 +6,6 @@
 
 # Obsidian Git 冲突提示自动生成文件
 **/conflict-files-obsidian-git.md
+
+# obsidian-git 插件运行时临时文件（凭据输入缓存，含敏感信息）
+**/.obsidian/plugins/obsidian-git/.git_credentials_input
