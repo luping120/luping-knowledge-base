@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "7c011e41126da7e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "44e5b43293b38699",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc96c6ff62a4cdf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！"
+            }
+          },
+          {
+            "id": "e0102cf940e016f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专升本高数/专升本数学笔记_索引.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "专升本数学笔记_索引"
+            }
+          },
+          {
+            "id": "750f08029e5e553a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim/Vim ：移动与编辑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vim ：移动与编辑"
+            }
+          },
+          {
+            "id": "f9ff2000377a9e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim/Vim ：移动与编辑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vim ：移动与编辑"
+            }
+          },
+          {
+            "id": "06789dddcd82dc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim/Vim ：文本对象操作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vim ：文本对象操作"
+            }
+          },
+          {
+            "id": "1750a31496eda638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim/Vim ：寄存器与宏.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vim ：寄存器与宏"
+            }
+          },
+          {
+            "id": "8a8ed5a3bbc26fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！"
+            }
+          },
+          {
+            "id": "b99d72c0f014f00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专升本高数/全微分公式法推导过程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "全微分公式法推导过程"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "306051ec2d790f9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97ed4a581047aa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1281b45ec2780cec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e15387a8d799186f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "73652b3941d05d82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0d0d96d580f46f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f26fa3cfb08029a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8ffd778c77012bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！ 的大纲"
+            }
+          },
+          {
+            "id": "65e151f44fc5fec0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！ 的反向链接列表"
+            }
+          },
+          {
+            "id": "392691a98eb8a7d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "专升本高数/测试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "测试 的出链列表"
+            }
+          },
+          {
+            "id": "849b04dbee3e620a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a9e23349087c7de1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "b99d72c0f014f00a",
+  "lastOpenFiles": [
+    "专升本高数/【26专升本速成课1】一个视频讲完第一章函数极限和连续中的易考点！.md",
+    "专升本高数/全微分公式法推导过程.md",
+    "专升本高数/【2024】【专升本高等数学】【基础全程班】【专升本高数】专转本专接本 p122 123、第五章 二元隐函数一阶偏导.md",
+    "专升本高数/【专升本速成课6】保命课程！一个视频讲完向量代数和空间解析几何的内容！快速掌握，提分！.md",
+    "专升本高数/【专升本高数速成课10】一个视频讲完常微分方程中常考题型.md",
+    "专升本高数/专升本数学笔记_索引.md",
+    "专升本高数/裂项常用公式大全.md",
+    "专升本高数/常见待定系数法裂项公式(积分时要用).md",
+    "专升本高数/【专升本速成课9】一个视频讲完无穷级数常考点！快速拿分！.md",
+    "专升本高数/【专升本速成课8】救命课程！二重积分下，教会你，如何计算二重积分！.md",
+    "专升本高数/【专升本高等数学】【基础全程班】【专升本高数】专转本专接本 p120 121、第五章 可微的本质.md",
+    "专升本高数/【2024】【专升本高等数学】【基础全程班】【专升本高数】专转本专接本 p122 123、第五章 二元隐函数一阶偏导 1.md",
+    "vim/Vim ：文本对象操作.md",
+    "vim/Vim ：移动与编辑.md",
+    "vim/Vim ：寄存器与宏.md",
+    "vim/Vim ：命令模式.md",
+    "vim/Vim 教程：初识 Vim.md",
+    "未命名",
+    "专升本英语/自然拼读/【真·零基础英语(自然拼读2)】单词构造对发音的影响【元音aeiou的字母音】.md",
+    "vim",
+    "docker/docker file.md",
+    "docker/dockercompose.md",
+    "专升本英语/自然拼读/【真·零基础英语(自然拼读7)】其他发音组合(完结).md",
+    "专升本英语/自然拼读/【真·零基础英语(自然拼读6)】常见辅音组合2, wh_ph的发音.md",
+    "专升本英语/自然拼读/【真·零基础英语(自然拼读5)】常见辅音组合, ck、ng的发音.md",
+    "专升本英语/自然拼读/【真·零基础英语(自然拼读4)】常见元音组合2, oo; ou_ow的发音.md",
+    "专升本英语/自然拼读/【真·零基础英语(自然拼读3)】常见元音组合, er_ir_ur以及ea_ee.md",
+    "专升本英语/自然拼读/【真·零基础英语(自然拼读2.5)】单词构造对发音的影响【aeiou字母音特例的规律】.md",
+    "专升本英语/未命名.canvas",
+    "专升本英语/自然拼读",
+    "docker",
+    "texxt",
+    "专升本高数/专升本数学笔记_索引.md.tmp.283907.1775312102235",
+    "专升本高数/专升本数学笔记_索引.md.tmp.283907.1775312085149",
+    "专升本高数/专升本数学笔记_索引.md.tmp.283907.1775312065684",
+    "专升本高数/专升本数学笔记_索引.md.tmp.283907.1775312053393",
+    "专升本高数/专升本数学笔记_索引.md.tmp.283907.1775312042329"
+  ]
+}
